@@ -1,1 +1,2 @@
-# leaf-plant-disease
+Plant Leaf Disease Detection System Using AI Algorithms:
+Develop a Plant Leaf Disease Detection System utilizing AI algorithms. This project is crucial for agricultural sustainability, as it enables early detection and intervention against plant diseases, thereby improving crop yield and quality. Involve data collection, model training, and the development of a user-friendly interface for farmers to utilize this system effectively.
